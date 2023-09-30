@@ -103,15 +103,16 @@ button {
      h1 {
           width: 263px;
           height: 52px;
-          text-align: center;
           color: #515151;
           font-family: Montserrat;
           font-size: 50px;
           font-style: normal;
           font-weight: 900;
           line-height: normal;
-          position: absolute;
-          left: 63.5px;
+          padding-right: 0px;
+          margin-right: 0px;
+          margin-left: -10px;
+          
          
      }
      h2 {
@@ -124,8 +125,8 @@ button {
           font-style: normal;
           font-weight: 500;
           line-height: normal;
-          position: relative;
-          top: 55px;     
+          
+          
      }
      p{
           display: none;
